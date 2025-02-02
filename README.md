@@ -6,6 +6,12 @@ Welcome to the **Movie Recommendation Engine** project! This repository demonstr
 
 [Complete Model Training Process](https://colab.research.google.com/drive/1glygcEvjndpnQiZhiRU6M_Mkvz-UoJNZ?usp=sharing)
 
+### 😊Learn more about me:
+
+Welcome to my homepage, feel free to click the link below!
+
+[Click here to visit my homepage](http://guonazhi.site)
+
 ---
 
 ## 🎨 Visual Demo
